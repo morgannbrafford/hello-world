@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Well, this is my first real time messing around in GitHub, so this is here to figure out what it going on!
+Well, this is my first real time messing around in GitHub, so this is here for me to play with and figure out what the heck is going on!
